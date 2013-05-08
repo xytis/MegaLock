@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MegaLock</string>
+    <string name="service_name">MegaLock service</string>
+    <string name="connect_button">Connect</string>
+
+</resources>
